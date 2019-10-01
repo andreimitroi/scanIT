@@ -1,5 +1,7 @@
 ## Welcome to scanIT
 
+To do on this page:
+
 1. Project title
 2. Present the team and assign roles (such as FR, BE, PO, PM, etc)
 make it look good
