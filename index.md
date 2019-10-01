@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to scanIT
 
-You can use the [editor on GitHub](https://github.com/andreimitroi/scanIT/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Project title
+2. Present the team and assign roles (such as FR, BE, PO, PM, etc)
+make it look good
+3. include a form of contact (emails)
+4. Describe the problem that you have noticed
+5. Your solution / value proposition
+6. Customer segment/s
+7. Competition
+8. Your advantage over the competition
+9. Key metrics
+10. Cost structure
+11. Revenue streams
 
 ### Markdown
 
