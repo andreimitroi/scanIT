@@ -78,5 +78,8 @@ html {
     color: #000;
 }
 
-
+.about-section .col-sm-4{
+    overflow:hidden !important;
+    padding:10px 0px !important
+}
 
