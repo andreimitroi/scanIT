@@ -60,6 +60,22 @@ html {
     text-align: center;
     background: #fff;
 }
+
+.usecases-section {
+  height: 1500px;
+  padding-top: 150px;
+  text-align: center;
+  background: #fff;
+}
+
+
+.interview-section {
+  height: 100%;
+  padding-top: 150px;
+  text-align: center;
+  background: #fff;
+}
+
 .contact-section {
     height: 100%;
     padding-top: 150px;
