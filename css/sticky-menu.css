@@ -69,6 +69,14 @@ html {
 }
 
 
+.landing-page-section {
+  height: 2400px;
+  padding-top: 150px;
+  text-align: center;
+  background: #fff;
+}
+
+
 .interview-section {
   height: 100%;
   padding-top: 150px;
