@@ -241,7 +241,15 @@ html {
   .fade-carousel .slides .slide-4,
   .fade-carousel .slides .slide-5,
   .fade-carousel .slides .slide-6,
-  .fade-carousel .slides .slide-7{
+  .fade-carousel .slides .slide-7,
+  .fade-carousel .slides .slide-8,
+  .fade-carousel .slides .slide-9,
+  .fade-carousel .slides .slide-10,
+  .fade-carousel .slides .slide-11,
+  .fade-carousel .slides .slide-12,
+  .fade-carousel .slides .slide-13,
+  .fade-carousel .slides .slide-14,
+  .fade-carousel .slides .slide-15{
     height: 65vh;
     background-size: contain;
     background-position: center center;
@@ -267,6 +275,30 @@ html {
   }
   .fade-carousel .slides .slide-7 {
     background-image: url(../fiki_resources/7.jpg);
+  }
+  .fade-carousel .slides .slide-8 {
+    background-image: url(../fiki_resources/wireframe1.png);
+  }
+  .fade-carousel .slides .slide-9 {
+    background-image: url(../fiki_resources/wireframe2.png);
+  }
+  .fade-carousel .slides .slide-10 {
+    background-image: url(../fiki_resources/wireframe3.png);
+  }
+  .fade-carousel .slides .slide-11 {
+    background-image: url(../fiki_resources/wireframe4.png);
+  }
+  .fade-carousel .slides .slide-12 {
+    background-image: url(../fiki_resources/wireframe5.png);
+  }
+  .fade-carousel .slides .slide-13 {
+    background-image: url(../fiki_resources/wireframe6.png);
+  }
+  .fade-carousel .slides .slide-14 {
+    background-image: url(../fiki_resources/wireframe7.png);
+  }
+  .fade-carousel .slides .slide-15 {
+    background-image: url(../fiki_resources/wireframe8.png);
   }
   
   /********************************/
