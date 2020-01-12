@@ -1,0 +1,364 @@
+.main-container {
+  height: 700px;
+  display: table;
+  width: 100%;
+  overflow: hidden;
+  background-size: cover !important;
+  background-attachment: fixed !important;
+}
+
+.main-align {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+.main-align.dark {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.main-align.white {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.padding-top {
+  padding-top: 90px;
+}
+.main-align.dark {
+  color: #fff;
+}
+
+h1 {
+  font-weight: 400;
+  letter-spacing: 9px;
+  margin-bottom: 53px;
+}
+p {
+  line-height: 1.7;
+  font-size: 15px;
+}
+
+a.navbar-brand.page-scroll.logo {
+  color: #150b61;
+  font-weight: 600;
+  letter-spacing: 3px;
+}
+a.navbar-brand.page-scroll.logo span {
+  color: #f03f04;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: #fff;
+  background-color: #150b61;
+}
+
+.navbar-default .navbar-nav > li > a {
+  border-radius: 9px;
+}
+
+.normal-section {
+  width: 100%;
+  padding: 70px 0px;
+  margin: 0px auto;
+  background: #ececec;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.main-title {
+  display: block;
+  font-size: 32px;
+  margin-bottom: 45px;
+  text-transform: capitalize;
+  letter-spacing: 4px;
+  overflow: hidden;
+}
+.main-title span {
+  clear: both;
+  display: block;
+}
+.liniuta {
+  width: 100px;
+  float: left;
+  overflow: hidden;
+  display: block;
+  height: 4px;
+  background: #150b61;
+}
+
+.liniuta2 {
+  width: 30px;
+  float: left;
+  overflow: hidden;
+  display: block;
+  height: 4px;
+  background: #f03f04;
+}
+
+p.nice-txt {
+  font-size: 23px;
+  font-weight: 100;
+  letter-spacing: 1px;
+  width: 71%;
+  margin: 0px auto;
+}
+
+.main-container.v2 {
+  height: 500px;
+  -webkit-box-shadow: inset 0px 0px 5px 2px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: inset 0px 0px 5px 2px rgba(0, 0, 0, 0.75);
+  box-shadow: inset 4px 0px 13px 2px rgba(0, 0, 0, 0.3);
+}
+
+.normal-section.grey {
+  padding: 70px 0px;
+}
+
+.img-placeholder img {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  display: block;
+  -webkit-box-shadow: 5px 6px 8px -2px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 5px 6px 8px -2px rgba(0, 0, 0, 0.5);
+  box-shadow: 5px 6px 8px -2px rgba(0, 0, 0, 0.5);
+}
+
+.img-placeholder {
+  display: block;
+  padding: 14px;
+}
+
+.table-align {
+  display: table;
+  width: 100%;
+  overflow: hidden;
+}
+.table-cell {
+  display: table-cell;
+  vertical-align: middle;
+  width: 50%;
+}
+.table-cell.c1 {
+  padding-right: 10px;
+}
+.table-cell.c2 {
+  padding-left: 10px;
+}
+.main-title.right,
+.right {
+  text-align: right;
+}
+.right .liniuta,
+.right .liniuta2 {
+  float: right;
+}
+.normal-section.white {
+  background: #fff;
+}
+ul.nice-ul li {
+  padding-bottom: 11px;
+  font-size: 15px;
+}
+ul.nice-ul {
+  list-style: square;
+  padding: 0px 0px 0px 19px;
+}
+.table-align.align-top .table-cell {
+  vertical-align: top;
+}
+.main-title.center {
+  text-align: center;
+  margin-bottom: 37px;
+}
+p.center {
+  text-align: center;
+  margin-bottom: 27px;
+}
+.mini-t {
+  text-align: center;
+  margin-bottom: 14px;
+  font-size: 19px;
+}
+audio.center-v {
+  margin: 0px auto;
+  display: block;
+}
+
+.thumbnail-mee {
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+  border-radius: 100%;
+  margin: 0px auto 26px;
+  -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.3);
+  display: table;
+}
+
+.thumbnail-mee img {
+  width: 100%;
+  /* height: 100%; */
+  display: block;
+  max-height: 250px !important;
+}
+
+.thumbnail-align {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.my-col-3 {
+  display: inline-block;
+  vertical-align: middle;
+  width: 33%;
+  padding: 14px 14px 0px 14px;
+  text-align: center;
+}
+.my-col-3 img {
+  transition: all 0.5s ease;
+  display: block;
+  cursor: pointer;
+  height: 300px;
+  width: auto;
+  margin: 0px auto;
+  -webkit-box-shadow: 4px 2px 6px -1px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 4px 2px 6px -1px rgba(0, 0, 0, 0.3);
+  box-shadow: 4px 2px 6px -1px rgba(0, 0, 0, 0.3);
+}
+.my-col-3 .thumbnail {
+  border: none !important;
+}
+.my-col-3 img:hover {
+  transform: rotateY(180deg);
+}
+
+.thumbnail.new-img {
+  padding: 37px 0px;
+}
+.thumbnail.new-img img {
+  width: auto !important;
+  height: 300px;
+}
+
+.thumbnail.padd {
+  text-align: center;
+  padding: 46px !important;
+}
+
+.thumbnail-p {
+  width: 60%;
+  margin: 0px auto 40px;
+}
+.img-cont {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+section.footer {
+  background: #150b61;
+  padding: 21px 0px;
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.navbar-default {
+  display: block;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+@media (max-width: 1000px) {
+  .main-container {
+    height: 500px;
+  }
+  h1 {
+    font-weight: 400;
+    letter-spacing: 9px;
+    margin-bottom: 30px;
+  }
+  .padding-top {
+    padding-top: 190px;
+  }
+  .main-title {
+    font-size: 26px;
+    margin-bottom: 30px;
+  }
+  .normal-section {
+    padding: 43px 0px;
+  }
+  p.nice-txt {
+    width: 80%;
+    font-size: 20px;
+  }
+  .thumbnail-mee {
+    width: 150px;
+    height: 150px;
+  }
+  .thumbnail-mee img {
+    max-height: 150px !important;
+  }
+  .mini-t {
+    text-align: center;
+    margin-bottom: 14px;
+    font-size: 16px;
+  }
+  .my-col-3 {
+    width: 32%;
+  }
+}
+
+@media (max-width: 600px) {
+  .padding-top {
+    padding-top: 52px;
+  }
+  .h1,
+  h1 {
+    font-size: 30px;
+  }
+  p.nice-txt {
+    width: 100%;
+    font-size: 15px;
+  }
+  .table-align {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+  }
+  .table-cell {
+    display: block;
+    width: 92%;
+    padding: 0px !important;
+    margin: 0px auto !important
+  }
+  .normal-section.grey {
+    padding: 44px 0px;
+  }
+  .main-container {
+    height: auto;
+  
+    box-sizing: border-box;
+}
+.main-align.dark{
+    padding: 30px 0px !important;
+}
+.my-col-3 {
+    width: 49%;
+    padding: 6px 6px 0px 6px;
+}
+.my-col-3 img { 
+    height: 233px; 
+}
+.thumbnail.new-img img {
+    width: 100% !important;
+    height: auto;
+}
+section.footer { 
+    font-size: 13px;
+}
+}
