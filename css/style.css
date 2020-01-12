@@ -38,12 +38,12 @@ p {
 }
 
 a.navbar-brand.page-scroll.logo {
-  color: #150b61;
+  color: #0b4661;
   font-weight: 600;
   letter-spacing: 3px;
 }
 a.navbar-brand.page-scroll.logo span {
-  color: #f03f04;
+  color: #04e0f0;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
@@ -82,7 +82,7 @@ a.navbar-brand.page-scroll.logo span {
   overflow: hidden;
   display: block;
   height: 4px;
-  background: #150b61;
+  background: #0b4661;
 }
 
 .liniuta2 {
@@ -91,7 +91,7 @@ a.navbar-brand.page-scroll.logo span {
   overflow: hidden;
   display: block;
   height: 4px;
-  background: #f03f04;
+  background: #04e0f0;
 }
 
 p.nice-txt {
