@@ -363,8 +363,6 @@ section.footer {
 }
 }
 
-@media (max-width: 1200px) {
-  .nav>li>a {    
-    padding: 15px 10px;
-  }
+.nav>li>a {    
+  padding: 15px 10px;
 }
