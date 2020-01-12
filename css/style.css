@@ -362,3 +362,9 @@ section.footer {
     font-size: 13px;
 }
 }
+
+@media (max-width: 1200px) {
+  .nav>li>a {    
+    padding: 15px 10px;
+  }
+}
