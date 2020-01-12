@@ -256,25 +256,25 @@ html {
     background-repeat: no-repeat;
   }
   .fade-carousel .slides .slide-1 {
-    background-image: url(../fiki_resources/1.jpg); 
+    background-image: url(../fiki_resources/q1.jpg); 
   }
   .fade-carousel .slides .slide-2 {
-    background-image: url(../fiki_resources/2.jpg);
+    background-image: url(../fiki_resources/q2.jpg);
   }
   .fade-carousel .slides .slide-3 {
-    background-image: url(../fiki_resources/3.jpg);
+    background-image: url(../fiki_resources/q3.jpg);
   }
   .fade-carousel .slides .slide-4 {
-    background-image: url(../fiki_resources/4.jpg);
+    background-image: url(../fiki_resources/q4.jpg);
   }
   .fade-carousel .slides .slide-5 {
-    background-image: url(../fiki_resources/5.jpg);
+    background-image: url(../fiki_resources/q5.jpg);
   }
   .fade-carousel .slides .slide-6 {
-    background-image: url(../fiki_resources/6.jpg);
+    background-image: url(../fiki_resources/q6.jpg);
   }
   .fade-carousel .slides .slide-7 {
-    background-image: url(../fiki_resources/7.jpg);
+    background-image: url(../fiki_resources/q7.jpg);
   }
   .fade-carousel .slides .slide-8 {
     background-image: url(../fiki_resources/wireframe1.png);
